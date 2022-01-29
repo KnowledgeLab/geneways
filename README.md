@@ -14,5 +14,5 @@ hiid|actionmentionid|negative|upstream|actiontype|downstream|pmid|isFullText|sen
 |4|2953868|0|ada|activate|ada|9988722|Y|29|-0.668|0.82661|
 
 
-This dataset was used in [Belikov et al.](./belikov2020.bib) titled "Computational identification of robust scientific claims in literature".
+This dataset was used in [Belikov et al.](./belikov2020.bib) titled "Prediction of robust scientific facts from literature".
 
