@@ -1,8 +1,8 @@
 # GeneWays
 
-This repository contains GeneWays data from 2004 article of [Rzhetsky et al.](./rzhetsky2004.bib) titled  "GeneWays: A System for Extracting| Analyzing| Visualizing| and Integrating Molecular Pathway Data".
+This repository contains GeneWays data from a 2004 publication by [Rzhetsky et al.](./rzhetsky2004.bib) titled  "GeneWays: A System for Extracting| Analyzing| Visualizing| and Integrating Molecular Pathway Data".
 
-It contains 615412 claims about 312904 interaction extracted from 196760 publications.
+It contains 615412 claims about 312904 interactions extracted from 196760 publications.
 
 The view of the dataset:
 
